@@ -1,5 +1,5 @@
 {
-  "name": "sortable-hash",
+  "name": "sortable-hash-base-4",
   "description": "Hash arrays of numbers into sortable strings with variable precision loss",
   "version": "0.0.0",
   "repository": {

@@ -1,5 +1,5 @@
-var bits = [16, 8, 4, 2, 1];
-var base32 = '0123456789bcdefghjkmnpqrstuvwxyz';
+var bits = [2, 1];
+var base32 = '0123';
 
 var Hash = {};
 
